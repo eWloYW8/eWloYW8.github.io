@@ -21,7 +21,7 @@
   <entry>
     <title>Test</title>
     <url>/2025/03/15/Test/</url>
-    <content><![CDATA[<h1 id="This-is-a-title"><a href="#This-is-a-title" class="headerlink" title="This is a title"></a>This is a title</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> this</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<h1 id="This-is-a-title"><a href="#This-is-a-title" class="headerlink" title="This is a title"></a>This is a title</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> this</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello&quot;</span>)</span><br></pre></td></tr></table></figure>
 
 <p><strong>test</strong></p>
 ]]></content>

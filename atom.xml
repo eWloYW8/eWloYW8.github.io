@@ -6,7 +6,7 @@
   <link href="https://blog.p5s.fun/atom.xml" rel="self"/>
   
   <link href="https://blog.p5s.fun/"/>
-  <updated>2025-03-16T02:40:24.944Z</updated>
+  <updated>2025-03-16T02:46:37.432Z</updated>
   <id>https://blog.p5s.fun/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://blog.p5s.fun/2025/03/15/Test/"/>
     <id>https://blog.p5s.fun/2025/03/15/Test/</id>
     <published>2025-03-15T10:30:32.000Z</published>
-    <updated>2025-03-16T02:40:24.944Z</updated>
+    <updated>2025-03-16T02:46:37.432Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="This-is-a-title"><a href="#This-is-a-title" class="headerlink" title="This is a title"></a>This is a title</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> this</span><br></pre></td></tr></table></figure><p><strong>test</strong></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="This-is-a-title"><a href="#This-is-a-title" class="headerlink" title="This is a title"></a>This is a title</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> this</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello&quot;</span>)</span><br></pre></td></tr></table></figure><p><strong>test</strong></p>]]></content>
     
     
       
