@@ -6,7 +6,7 @@
   <link href="https://blog.p5s.fun/atom.xml" rel="self"/>
   
   <link href="https://blog.p5s.fun/"/>
-  <updated>2025-03-16T02:51:36.325Z</updated>
+  <updated>2025-03-16T03:13:11.715Z</updated>
   <id>https://blog.p5s.fun/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://blog.p5s.fun/2025/03/15/Test/"/>
     <id>https://blog.p5s.fun/2025/03/15/Test/</id>
     <published>2025-03-15T10:30:32.000Z</published>
-    <updated>2025-03-16T02:51:36.325Z</updated>
+    <updated>2025-03-16T03:13:11.715Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="This-is-a-title"><a href="#This-is-a-title" class="headerlink" title="This is a title"></a>This is a title</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> this</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello&quot;</span>)</span><br></pre></td></tr></table></figure><p><strong>test</strong></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="This-is-a-title"><a href="#This-is-a-title" class="headerlink" title="This is a title"></a>This is a title</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> this</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello&quot;</span>)</span><br></pre></td></tr></table></figure><p><strong>test</strong></p><p>$$<br>\begin{aligned}<br>&amp;\Bigl(f*g\Bigr)(6) \<br>&#x3D;&amp;\sum_{d\mid 6}f(d)g\biggl(\dfrac{6}{d}\biggr) \<br>&#x3D;&amp;f(1)g(6)+f(2)g(3)+f(3)g(2)+f(6)g(1)<br>\end{aligned}<br>$$</p>]]></content>
     
     
       

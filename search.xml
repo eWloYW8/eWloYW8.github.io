@@ -24,6 +24,7 @@
     <content><![CDATA[<h1 id="This-is-a-title"><a href="#This-is-a-title" class="headerlink" title="This is a title"></a>This is a title</h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> this</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello&quot;</span>)</span><br></pre></td></tr></table></figure>
 
 <p><strong>test</strong></p>
+<p>$$<br>\begin{aligned}<br>&amp;\Bigl(f*g\Bigr)(6) \<br>&#x3D;&amp;\sum_{d\mid 6}f(d)g\biggl(\dfrac{6}{d}\biggr) \<br>&#x3D;&amp;f(1)g(6)+f(2)g(3)+f(3)g(2)+f(6)g(1)<br>\end{aligned}<br>$$</p>
 ]]></content>
   </entry>
 </search>
